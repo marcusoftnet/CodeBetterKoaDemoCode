@@ -17,7 +17,7 @@ module.exports.list = function *() {
 };
 
 // Show creation form.
-module.exports.add = function *() { 
+module.exports.add = function *() {
   this.body = yield render('new');
 };
 

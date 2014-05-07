@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon --harmony app.js"
+    "start": "node --harmony app.js"
   },
   "author": "Marcus Hammarberg @marcusoftnet",
   "license": "ISC",
